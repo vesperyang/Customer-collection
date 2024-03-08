@@ -1,0 +1,15 @@
+/Users/vesperyang/564assignment1/564assignment1/bin/Debug/net6.0/564assignment1
+/Users/vesperyang/564assignment1/564assignment1/bin/Debug/net6.0/564assignment1.deps.json
+/Users/vesperyang/564assignment1/564assignment1/bin/Debug/net6.0/564assignment1.runtimeconfig.json
+/Users/vesperyang/564assignment1/564assignment1/bin/Debug/net6.0/564assignment1.dll
+/Users/vesperyang/564assignment1/564assignment1/bin/Debug/net6.0/564assignment1.pdb
+/Users/vesperyang/564assignment1/564assignment1/obj/Debug/net6.0/564assignment1.csproj.AssemblyReference.cache
+/Users/vesperyang/564assignment1/564assignment1/obj/Debug/net6.0/564assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vesperyang/564assignment1/564assignment1/obj/Debug/net6.0/564assignment1.AssemblyInfoInputs.cache
+/Users/vesperyang/564assignment1/564assignment1/obj/Debug/net6.0/564assignment1.AssemblyInfo.cs
+/Users/vesperyang/564assignment1/564assignment1/obj/Debug/net6.0/564assignment1.csproj.CoreCompileInputs.cache
+/Users/vesperyang/564assignment1/564assignment1/obj/Debug/net6.0/564assignment1.dll
+/Users/vesperyang/564assignment1/564assignment1/obj/Debug/net6.0/refint/564assignment1.dll
+/Users/vesperyang/564assignment1/564assignment1/obj/Debug/net6.0/564assignment1.pdb
+/Users/vesperyang/564assignment1/564assignment1/obj/Debug/net6.0/564assignment1.genruntimeconfig.cache
+/Users/vesperyang/564assignment1/564assignment1/obj/Debug/net6.0/ref/564assignment1.dll
